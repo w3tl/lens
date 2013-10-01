@@ -1,6 +1,7 @@
 #ifndef ____gl_functions__
 #define ____gl_functions__
 
+#include <math.h>
 #include <gl\gl.h>			// заголовочный файл для OpenGL32 библиотеки
 #include <gl\glu.h>			// заголовочный файл для GLu32 библиотеки
 #include <gl\glaux.h>		// заголовочный файл для GLaux библиотеки
